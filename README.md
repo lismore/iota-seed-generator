@@ -18,7 +18,20 @@ IOTA Seed Generator uses a number of open source projects to work properly:
 ### Installation
 
     git clone git@github.com:lismore/iota-seed-generator.git
+
+to run the application 
+
+    $ node index.js
+    
+    Welcome to the IOTA Seed & Address Generator
+
+    Created new seed: 9QGCBXTWOHGKQICEVKGKSQSCXQVEYXYCPL9RZKKDUL9PPGWZDCKJPDVLVMRJLFNC99EWACSGUZTTMBFVV
+
+    Got Address from seed: GSNVRUGQDXDDTUJJPER9RSTYFM9LJTPATMONGEXUZOPYNMVRMHCXZGEXOWBDW9IJAOWNZZXDHQTIYWKICSMNJ9SVVY
+
+
 ```
+
 ### Development
 
 Want to contribute? Great!
