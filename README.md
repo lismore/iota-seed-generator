@@ -17,7 +17,7 @@ IOTA Seed Generator uses a number of open source projects to work properly:
 
 ### Installation
 
-    git clone 
+    git clone git@github.com:lismore/iota-seed-generator.git
 ```
 ### Development
 
