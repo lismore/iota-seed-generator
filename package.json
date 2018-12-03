@@ -1,0 +1,27 @@
+{
+  "name": "iota-seed-generator",
+  "version": "1.0.0",
+  "description": "This app generates a new IOTA seed bsaed on iota.lib.js ",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lismore/iota-seed-generator.git"
+  },
+  "keywords": [
+    "iota",
+    "blockchain",
+    "tangle"
+  ],
+  "author": "Patrick Lismore",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/lismore/iota-seed-generator/issues"
+  },
+  "homepage": "https://github.com/lismore/iota-seed-generator#readme",
+  "dependencies": {
+    "iota.lib.js": "^0.5.1"
+  }
+}
